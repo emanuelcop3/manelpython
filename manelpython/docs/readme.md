@@ -1,5 +1,3 @@
-
-
 # Documentação: Criação de Instância AWS com Terraform
 
 ## Introdução
@@ -25,6 +23,10 @@ O diretório de trabalho contém os seguintes arquivos e diretórios:
   ├── main.tf
   └── terraform.tfstate
 ```
+
+### Visualização da Estrutura de Arquivos
+
+![Estrutura de Arquivos](file:///mnt/data/lock.png)
 
 ## Passo a Passo
 
@@ -247,7 +249,4 @@ aws_instance.example: Still creating... [20s elapsed]
 aws_instance.example: Still creating... [30s elapsed]
 aws_instance.example: Creation complete after 34s [id=i-0b3b6033b1df00093]
 
-Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
-```
-
-A instância foi criada com sucesso e está identificada pelo
+Apply complete! Resources: 1 added, 0 changed, 
