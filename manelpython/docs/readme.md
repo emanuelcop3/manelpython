@@ -26,7 +26,7 @@ O diretório de trabalho contém os seguintes arquivos e diretórios:
 
 ### Visualização da Estrutura de Arquivos
 
-![Estrutura de Arquivos](file:///mnt/data/lock.png)
+![Estrutura de Arquivos](../lock.png)
 
 ## Passo a Passo
 
