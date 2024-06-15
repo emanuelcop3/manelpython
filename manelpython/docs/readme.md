@@ -24,10 +24,6 @@ O diretório de trabalho contém os seguintes arquivos e diretórios:
   └── terraform.tfstate
 ```
 
-### Visualização da Estrutura de Arquivos
-
-![Estrutura de Arquivos](../lock.png)
-
 ## Passo a Passo
 
 ### 1. Inicializar o Terraform
